@@ -41,6 +41,7 @@
   max-width: 700px;
   margin: auto;
   padding-top: 64px;
+  
 }
 
 nav {
@@ -66,4 +67,10 @@ nav a {
   color: black;
   font-weight: bold;
   padding: 16px 32px;
+}
+
+.article-list-item {
+  text-decoration: none;
+  color: black;
+  padding: 16px 0 0 0;
 }
