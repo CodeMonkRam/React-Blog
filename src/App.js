@@ -13,21 +13,21 @@ import { NotFoundPage } from './Pages/NotFoundPage';
 class App extends Component {
   render() {
     return (
-      <Router>
+      <Router>      
         <div className="App"> 
         <NavBar/>
         <div id="page-body">
           <Switch>
-         <Route path="/" component={HomePage} exact />
-        <Route path="/about" component={AboutPage} />
-        <Route path="/article-list" component={ArticleListPage} />
-        <Route path="/article/:name" component={ArticlePage} />
+         <Route path="https://codemonkram.github.io/React-Blog/" component={HomePage} exact />
+        <Route path="https://codemonkram.github.io/React-Blog/about" component={AboutPage} />
+        <Route path="https://codemonkram.github.io/React-Blog/article-list" component={ArticleListPage} />
+        <Route path="https://codemonkram.github.io/React-Blog/article/:name" component={ArticlePage} />
         <Route component={NotFoundPage}/>
         </Switch>
         
         </div>
         </div>
-      </Router>
+        </Router>
       
     );
   }
