@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/CodeMonkRam/React-Blog/static/css/main.4ff2ac9a.chunk.css",
-    "main.js": "/CodeMonkRam/React-Blog/static/js/main.6066ed3c.chunk.js",
-    "main.js.map": "/CodeMonkRam/React-Blog/static/js/main.6066ed3c.chunk.js.map",
-    "runtime-main.js": "/CodeMonkRam/React-Blog/static/js/runtime-main.16eb89e0.js",
-    "runtime-main.js.map": "/CodeMonkRam/React-Blog/static/js/runtime-main.16eb89e0.js.map",
-    "static/js/2.ebd7a275.chunk.js": "/CodeMonkRam/React-Blog/static/js/2.ebd7a275.chunk.js",
-    "static/js/2.ebd7a275.chunk.js.map": "/CodeMonkRam/React-Blog/static/js/2.ebd7a275.chunk.js.map",
-    "index.html": "/CodeMonkRam/React-Blog/index.html",
-    "static/css/main.4ff2ac9a.chunk.css.map": "/CodeMonkRam/React-Blog/static/css/main.4ff2ac9a.chunk.css.map",
-    "static/js/2.ebd7a275.chunk.js.LICENSE.txt": "/CodeMonkRam/React-Blog/static/js/2.ebd7a275.chunk.js.LICENSE.txt"
+    "main.css": "/React-Blog/static/css/main.4ff2ac9a.chunk.css",
+    "main.js": "/React-Blog/static/js/main.6066ed3c.chunk.js",
+    "main.js.map": "/React-Blog/static/js/main.6066ed3c.chunk.js.map",
+    "runtime-main.js": "/React-Blog/static/js/runtime-main.b28f9a1d.js",
+    "runtime-main.js.map": "/React-Blog/static/js/runtime-main.b28f9a1d.js.map",
+    "static/js/2.ebd7a275.chunk.js": "/React-Blog/static/js/2.ebd7a275.chunk.js",
+    "static/js/2.ebd7a275.chunk.js.map": "/React-Blog/static/js/2.ebd7a275.chunk.js.map",
+    "index.html": "/React-Blog/index.html",
+    "static/css/main.4ff2ac9a.chunk.css.map": "/React-Blog/static/css/main.4ff2ac9a.chunk.css.map",
+    "static/js/2.ebd7a275.chunk.js.LICENSE.txt": "/React-Blog/static/js/2.ebd7a275.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.16eb89e0.js",
+    "static/js/runtime-main.b28f9a1d.js",
     "static/js/2.ebd7a275.chunk.js",
     "static/css/main.4ff2ac9a.chunk.css",
     "static/js/main.6066ed3c.chunk.js"
